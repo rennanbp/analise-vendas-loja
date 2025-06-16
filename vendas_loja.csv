@@ -1,0 +1,301 @@
+Data,Produto,Categoria,Valor Unitário,Quantidade,Forma de Pagamento,Cidade,Vendedor
+2025-05-27,Jaqueta,Vestuário,378.18,2,Cartão de Crédito,São Paulo,Rafael
+2025-02-27,Calça Jeans,Vestuário,344.15,4,Pix,Brasília,Carlos
+2024-07-12,Calça Jeans,Vestuário,268.97,3,Dinheiro,Rio de Janeiro,Rafael
+2024-09-30,Tênis,Calçados,412.44,3,Cartão de Crédito,Porto Alegre,Rafael
+2025-05-24,Vestido,Vestuário,127.4,4,Pix,São Paulo,Rafael
+2025-01-04,Boné,Acessórios,157.2,4,Boleto,Brasília,Ana
+2024-08-16,Vestido,Vestuário,156.51,5,Boleto,Salvador,Ana
+2024-06-20,Boné,Acessórios,431.95,4,Boleto,Rio de Janeiro,Rafael
+2024-09-01,Meia,Acessórios,395.36,3,Cartão de Débito,Porto Alegre,Lucas
+2024-08-07,Tênis Esportivo,Calçados,173.5,3,Dinheiro,Salvador,Fernanda
+2025-03-05,Meia,Acessórios,229.57,2,Pix,Rio de Janeiro,Ana
+2025-01-21,Saia,Vestuário,226.86,2,Cartão de Débito,Belo Horizonte,Ana
+2024-09-07,Tênis Esportivo,Calçados,90.74,3,Cartão de Crédito,São Paulo,Rafael
+2024-10-05,Tênis,Calçados,422.58,4,Cartão de Débito,São Paulo,Carlos
+2025-04-01,Vestido,Vestuário,223.88,5,Pix,Salvador,Carlos
+2024-10-01,Blusa,Vestuário,288.5,4,Cartão de Débito,Rio de Janeiro,Lucas
+2025-01-02,Camiseta,Vestuário,275.64,3,Pix,Curitiba,Rafael
+2024-09-04,Meia,Acessórios,78.01,5,Pix,Rio de Janeiro,Rafael
+2025-01-01,Saia,Vestuário,180.12,3,Cartão de Débito,Porto Alegre,Lucas
+2024-09-24,Calça Jeans,Vestuário,465.51,1,Dinheiro,São Paulo,Ana
+2024-12-24,Blusa,Vestuário,313.81,1,Pix,Salvador,Carlos
+2025-03-02,Jaqueta,Vestuário,105.57,5,Boleto,Rio de Janeiro,Fernanda
+2024-12-11,Saia,Vestuário,145.71,3,Pix,São Paulo,Fernanda
+2024-08-19,Meia,Acessórios,69.44,4,Cartão de Débito,Salvador,Lucas
+2024-12-21,Blusa,Vestuário,148.35,4,Dinheiro,Porto Alegre,Ana
+2024-11-08,Meia,Acessórios,99.7,2,Cartão de Débito,São Paulo,Lucas
+2025-02-01,Saia,Vestuário,487.28,1,Cartão de Crédito,São Paulo,Lucas
+2024-07-01,Meia,Acessórios,104.08,1,Boleto,São Paulo,Rafael
+2024-11-18,Jaqueta,Vestuário,250.71,1,Dinheiro,São Paulo,Rafael
+2024-10-29,Saia,Vestuário,284.69,4,Cartão de Débito,Curitiba,Ana
+2024-11-18,Saia,Vestuário,494.84,3,Dinheiro,São Paulo,Rafael
+2024-07-25,Tênis,Calçados,396.31,2,Boleto,Salvador,Rafael
+2024-12-19,Camiseta,Vestuário,32.39,2,Cartão de Débito,Rio de Janeiro,Patrícia
+2025-02-22,Tênis Esportivo,Calçados,481.01,3,Boleto,Belo Horizonte,Carlos
+2024-09-27,Calça Jeans,Vestuário,262.91,5,Boleto,Rio de Janeiro,Lucas
+2024-12-08,Boné,Acessórios,41.28,2,Cartão de Crédito,Salvador,Patrícia
+2024-10-03,Vestido,Vestuário,253.99,3,Cartão de Débito,São Paulo,Rafael
+2024-10-10,Calça Jeans,Vestuário,92.61,5,Cartão de Débito,Porto Alegre,Carlos
+2024-06-22,Tênis,Calçados,400.59,3,Dinheiro,São Paulo,Fernanda
+2025-06-06,Jaqueta,Vestuário,157.42,3,Cartão de Débito,Brasília,Ana
+2025-02-27,Calça Jeans,Vestuário,368.02,3,Cartão de Débito,São Paulo,Patrícia
+2025-06-09,Blusa,Vestuário,412.84,1,Pix,São Paulo,Rafael
+2025-06-15,Blusa,Vestuário,404.77,3,Cartão de Crédito,São Paulo,Ana
+2024-09-02,Vestido,Vestuário,449.7,3,Pix,Salvador,Patrícia
+2024-12-16,Tênis,Calçados,234.41,3,Dinheiro,Rio de Janeiro,Lucas
+2024-08-06,Vestido,Vestuário,166.76,2,Cartão de Débito,Rio de Janeiro,Lucas
+2024-09-17,Saia,Vestuário,474.72,3,Cartão de Débito,Brasília,Fernanda
+2025-02-13,Vestido,Vestuário,53.36,1,Dinheiro,Porto Alegre,Ana
+2025-02-26,Blusa,Vestuário,286.81,4,Dinheiro,São Paulo,Carlos
+2025-06-10,Jaqueta,Vestuário,47.39,4,Cartão de Débito,Rio de Janeiro,Lucas
+2024-12-26,Boné,Acessórios,336.0,2,Pix,São Paulo,Patrícia
+2025-01-16,Tênis Esportivo,Calçados,432.94,2,Cartão de Débito,Rio de Janeiro,Carlos
+2024-09-15,Calça Jeans,Vestuário,351.58,3,Dinheiro,Salvador,Rafael
+2025-02-28,Blusa,Vestuário,382.96,3,Cartão de Débito,Belo Horizonte,Carlos
+2025-06-06,Camiseta,Vestuário,74.22,3,Boleto,Belo Horizonte,Ana
+2024-12-23,Vestido,Vestuário,117.3,5,Boleto,Curitiba,Lucas
+2025-01-07,Jaqueta,Vestuário,410.15,1,Cartão de Débito,Curitiba,Carlos
+2025-06-04,Vestido,Vestuário,485.24,5,Pix,Curitiba,Lucas
+2025-06-04,Meia,Acessórios,416.62,2,Dinheiro,São Paulo,Rafael
+2025-03-05,Tênis,Calçados,90.69,3,Pix,Curitiba,Ana
+2024-07-28,Blusa,Vestuário,274.91,1,Cartão de Crédito,Belo Horizonte,Carlos
+2024-12-02,Meia,Acessórios,279.54,1,Cartão de Crédito,Rio de Janeiro,Patrícia
+2024-09-03,Vestido,Vestuário,323.14,4,Dinheiro,Rio de Janeiro,Patrícia
+2024-08-06,Jaqueta,Vestuário,205.53,1,Cartão de Débito,Salvador,Patrícia
+2024-07-16,Camiseta,Vestuário,441.03,4,Cartão de Crédito,Salvador,Lucas
+2024-06-15,Tênis,Calçados,104.48,2,Boleto,Rio de Janeiro,Fernanda
+2025-06-03,Jaqueta,Vestuário,172.17,1,Cartão de Crédito,Curitiba,Ana
+2024-10-06,Blusa,Vestuário,269.75,2,Cartão de Débito,Salvador,Ana
+2024-06-18,Vestido,Vestuário,79.76,1,Boleto,São Paulo,Patrícia
+2024-08-19,Vestido,Vestuário,321.57,2,Pix,Brasília,Carlos
+2025-03-24,Tênis Esportivo,Calçados,229.84,5,Cartão de Débito,Salvador,Rafael
+2025-05-22,Camiseta,Vestuário,298.28,2,Dinheiro,Curitiba,Rafael
+2025-05-08,Blusa,Vestuário,444.06,3,Dinheiro,Belo Horizonte,Rafael
+2025-05-21,Calça Jeans,Vestuário,101.1,4,Boleto,Belo Horizonte,Ana
+2024-10-08,Vestido,Vestuário,344.58,1,Cartão de Débito,Rio de Janeiro,Rafael
+2025-04-03,Vestido,Vestuário,131.89,5,Boleto,Belo Horizonte,Ana
+2024-10-31,Meia,Acessórios,402.09,2,Cartão de Débito,Salvador,Rafael
+2025-03-07,Boné,Acessórios,426.79,2,Dinheiro,Salvador,Patrícia
+2024-06-29,Vestido,Vestuário,269.73,1,Dinheiro,Belo Horizonte,Lucas
+2024-07-08,Saia,Vestuário,361.99,3,Pix,Brasília,Carlos
+2024-08-25,Calça Jeans,Vestuário,322.75,2,Cartão de Crédito,Salvador,Patrícia
+2025-05-29,Boné,Acessórios,102.29,1,Cartão de Débito,Curitiba,Rafael
+2025-06-05,Vestido,Vestuário,113.1,3,Pix,Rio de Janeiro,Carlos
+2025-06-13,Vestido,Vestuário,358.17,1,Dinheiro,Brasília,Patrícia
+2024-09-13,Vestido,Vestuário,258.57,3,Boleto,Salvador,Patrícia
+2025-01-26,Camiseta,Vestuário,87.41,1,Boleto,Rio de Janeiro,Carlos
+2025-03-20,Boné,Acessórios,455.5,3,Dinheiro,Porto Alegre,Rafael
+2024-09-19,Jaqueta,Vestuário,488.24,3,Cartão de Crédito,São Paulo,Rafael
+2025-04-19,Meia,Acessórios,459.28,1,Cartão de Débito,Brasília,Carlos
+2025-01-02,Jaqueta,Vestuário,461.93,2,Boleto,Belo Horizonte,Carlos
+2025-01-30,Boné,Acessórios,196.97,2,Pix,Brasília,Patrícia
+2025-05-09,Meia,Acessórios,239.34,3,Pix,Porto Alegre,Carlos
+2024-08-24,Boné,Acessórios,451.45,3,Boleto,São Paulo,Ana
+2024-07-15,Jaqueta,Vestuário,48.53,4,Boleto,Salvador,Patrícia
+2025-02-18,Calça Jeans,Vestuário,174.03,5,Pix,Rio de Janeiro,Patrícia
+2024-12-14,Meia,Acessórios,128.09,1,Dinheiro,Salvador,Carlos
+2024-08-15,Jaqueta,Vestuário,459.8,3,Dinheiro,Belo Horizonte,Lucas
+2024-09-12,Saia,Vestuário,468.03,2,Dinheiro,São Paulo,Patrícia
+2024-07-23,Tênis Esportivo,Calçados,314.19,5,Cartão de Débito,Curitiba,Lucas
+2024-12-26,Jaqueta,Vestuário,119.43,4,Dinheiro,Porto Alegre,Carlos
+2024-10-11,Jaqueta,Vestuário,409.78,5,Cartão de Débito,Belo Horizonte,Patrícia
+2025-04-17,Jaqueta,Vestuário,351.13,2,Cartão de Débito,São Paulo,Fernanda
+2024-08-28,Calça Jeans,Vestuário,204.72,5,Dinheiro,Curitiba,Carlos
+2024-10-05,Jaqueta,Vestuário,63.77,4,Pix,Porto Alegre,Carlos
+2024-10-05,Calça Jeans,Vestuário,480.01,5,Pix,Porto Alegre,Ana
+2024-10-24,Tênis Esportivo,Calçados,339.54,5,Cartão de Débito,Salvador,Fernanda
+2025-02-07,Jaqueta,Vestuário,96.57,2,Pix,Porto Alegre,Patrícia
+2024-11-17,Camiseta,Vestuário,110.1,3,Cartão de Crédito,Brasília,Ana
+2025-02-19,Jaqueta,Vestuário,29.92,2,Boleto,Rio de Janeiro,Ana
+2025-04-22,Calça Jeans,Vestuário,198.8,3,Cartão de Débito,Porto Alegre,Patrícia
+2025-05-02,Meia,Acessórios,364.26,2,Boleto,Brasília,Lucas
+2024-11-11,Tênis Esportivo,Calçados,472.91,3,Boleto,Curitiba,Rafael
+2024-09-17,Camiseta,Vestuário,433.26,3,Dinheiro,Porto Alegre,Ana
+2025-02-22,Calça Jeans,Vestuário,54.33,5,Cartão de Crédito,Porto Alegre,Lucas
+2024-12-22,Tênis Esportivo,Calçados,80.39,1,Boleto,São Paulo,Rafael
+2024-08-09,Boné,Acessórios,282.21,3,Cartão de Crédito,Salvador,Lucas
+2024-11-09,Blusa,Vestuário,309.53,1,Cartão de Crédito,Belo Horizonte,Fernanda
+2025-04-14,Calça Jeans,Vestuário,115.96,2,Cartão de Débito,Brasília,Rafael
+2025-05-01,Tênis Esportivo,Calçados,27.53,5,Cartão de Débito,Rio de Janeiro,Rafael
+2024-09-26,Tênis,Calçados,83.01,1,Cartão de Débito,Rio de Janeiro,Rafael
+2024-09-01,Jaqueta,Vestuário,307.04,5,Cartão de Crédito,Brasília,Carlos
+2025-05-09,Saia,Vestuário,367.25,1,Cartão de Crédito,Belo Horizonte,Lucas
+2024-10-13,Jaqueta,Vestuário,284.45,5,Boleto,Porto Alegre,Rafael
+2024-11-16,Tênis,Calçados,461.51,2,Cartão de Débito,Belo Horizonte,Ana
+2024-12-05,Vestido,Vestuário,161.57,5,Dinheiro,São Paulo,Patrícia
+2024-11-03,Tênis Esportivo,Calçados,62.89,4,Boleto,Salvador,Patrícia
+2024-07-18,Calça Jeans,Vestuário,494.35,5,Dinheiro,Salvador,Patrícia
+2025-03-31,Camiseta,Vestuário,366.45,2,Dinheiro,Salvador,Carlos
+2024-09-04,Meia,Acessórios,188.5,3,Pix,Curitiba,Lucas
+2024-09-07,Calça Jeans,Vestuário,240.41,4,Dinheiro,Rio de Janeiro,Ana
+2024-12-15,Boné,Acessórios,481.71,5,Dinheiro,São Paulo,Rafael
+2024-08-12,Tênis,Calçados,373.15,2,Dinheiro,Rio de Janeiro,Carlos
+2025-04-12,Vestido,Vestuário,267.12,3,Pix,Rio de Janeiro,Lucas
+2024-06-22,Camiseta,Vestuário,311.31,1,Dinheiro,Porto Alegre,Ana
+2025-06-02,Saia,Vestuário,241.32,1,Dinheiro,Porto Alegre,Patrícia
+2025-02-14,Vestido,Vestuário,206.81,2,Cartão de Débito,Rio de Janeiro,Lucas
+2024-10-11,Tênis Esportivo,Calçados,455.39,4,Pix,Brasília,Patrícia
+2025-01-07,Tênis,Calçados,189.64,3,Boleto,Curitiba,Carlos
+2025-05-13,Camiseta,Vestuário,209.69,3,Pix,Rio de Janeiro,Ana
+2025-03-28,Jaqueta,Vestuário,368.26,4,Dinheiro,Porto Alegre,Ana
+2024-09-02,Saia,Vestuário,300.86,4,Cartão de Débito,Rio de Janeiro,Fernanda
+2024-11-15,Blusa,Vestuário,482.67,4,Boleto,Salvador,Ana
+2024-07-01,Calça Jeans,Vestuário,22.33,5,Pix,Porto Alegre,Rafael
+2025-05-04,Calça Jeans,Vestuário,372.96,3,Cartão de Crédito,Porto Alegre,Carlos
+2025-06-11,Saia,Vestuário,156.77,2,Cartão de Crédito,Porto Alegre,Carlos
+2024-06-19,Saia,Vestuário,104.93,5,Dinheiro,Rio de Janeiro,Patrícia
+2025-02-11,Calça Jeans,Vestuário,250.57,2,Dinheiro,Belo Horizonte,Carlos
+2025-04-08,Boné,Acessórios,144.36,3,Cartão de Crédito,Belo Horizonte,Ana
+2024-12-22,Blusa,Vestuário,454.27,3,Pix,Salvador,Ana
+2024-07-17,Calça Jeans,Vestuário,496.19,2,Cartão de Crédito,Salvador,Carlos
+2024-12-29,Jaqueta,Vestuário,448.64,3,Dinheiro,Curitiba,Rafael
+2024-09-27,Vestido,Vestuário,244.37,3,Cartão de Crédito,Porto Alegre,Ana
+2024-08-27,Tênis,Calçados,241.85,3,Dinheiro,Rio de Janeiro,Ana
+2024-12-01,Jaqueta,Vestuário,86.88,1,Boleto,Salvador,Carlos
+2024-10-09,Meia,Acessórios,177.62,1,Dinheiro,Brasília,Ana
+2024-09-12,Vestido,Vestuário,461.41,4,Cartão de Débito,São Paulo,Lucas
+2024-12-29,Boné,Acessórios,51.92,4,Cartão de Débito,Porto Alegre,Fernanda
+2025-03-28,Tênis Esportivo,Calçados,23.52,4,Pix,Curitiba,Rafael
+2024-11-15,Blusa,Vestuário,374.04,1,Cartão de Débito,São Paulo,Fernanda
+2025-01-12,Vestido,Vestuário,100.96,4,Pix,Curitiba,Rafael
+2024-09-29,Camiseta,Vestuário,241.06,2,Cartão de Débito,Salvador,Patrícia
+2025-05-07,Tênis,Calçados,406.83,3,Boleto,São Paulo,Fernanda
+2025-06-01,Calça Jeans,Vestuário,244.26,3,Cartão de Crédito,São Paulo,Patrícia
+2025-03-20,Camiseta,Vestuário,280.4,5,Pix,Rio de Janeiro,Fernanda
+2025-01-30,Meia,Acessórios,330.34,5,Boleto,Curitiba,Ana
+2024-08-21,Vestido,Vestuário,371.17,3,Boleto,São Paulo,Rafael
+2025-03-07,Vestido,Vestuário,108.27,4,Boleto,Salvador,Ana
+2024-07-05,Boné,Acessórios,31.51,5,Dinheiro,São Paulo,Rafael
+2025-03-12,Tênis,Calçados,247.21,2,Cartão de Débito,Belo Horizonte,Lucas
+2024-09-30,Boné,Acessórios,301.34,3,Pix,Salvador,Rafael
+2025-03-02,Saia,Vestuário,28.25,3,Dinheiro,Rio de Janeiro,Lucas
+2024-11-02,Jaqueta,Vestuário,326.74,3,Pix,Belo Horizonte,Ana
+2024-10-28,Tênis Esportivo,Calçados,217.05,5,Cartão de Crédito,Porto Alegre,Ana
+2025-05-30,Vestido,Vestuário,326.7,1,Dinheiro,São Paulo,Ana
+2025-02-02,Tênis Esportivo,Calçados,429.5,3,Pix,Rio de Janeiro,Rafael
+2024-09-25,Vestido,Vestuário,417.58,2,Boleto,Porto Alegre,Carlos
+2024-12-22,Camiseta,Vestuário,197.57,3,Cartão de Crédito,Belo Horizonte,Lucas
+2025-01-21,Jaqueta,Vestuário,134.72,3,Pix,Belo Horizonte,Rafael
+2024-11-02,Blusa,Vestuário,365.29,2,Pix,São Paulo,Carlos
+2024-08-17,Blusa,Vestuário,207.45,4,Boleto,São Paulo,Patrícia
+2024-10-27,Meia,Acessórios,273.4,2,Boleto,Brasília,Fernanda
+2024-09-08,Meia,Acessórios,421.36,3,Cartão de Débito,Brasília,Fernanda
+2024-12-28,Boné,Acessórios,240.8,4,Boleto,Porto Alegre,Fernanda
+2025-06-09,Meia,Acessórios,36.05,5,Boleto,Salvador,Lucas
+2025-01-26,Tênis Esportivo,Calçados,106.18,2,Cartão de Crédito,São Paulo,Rafael
+2025-04-06,Meia,Acessórios,388.02,3,Pix,Porto Alegre,Rafael
+2024-10-05,Calça Jeans,Vestuário,33.8,4,Boleto,Porto Alegre,Carlos
+2025-04-19,Tênis Esportivo,Calçados,28.01,3,Dinheiro,Curitiba,Fernanda
+2024-12-14,Tênis Esportivo,Calçados,321.16,4,Cartão de Crédito,São Paulo,Ana
+2024-10-24,Blusa,Vestuário,28.56,2,Dinheiro,Porto Alegre,Patrícia
+2024-10-01,Saia,Vestuário,36.65,4,Boleto,Porto Alegre,Patrícia
+2025-04-03,Vestido,Vestuário,46.23,1,Pix,São Paulo,Lucas
+2024-11-21,Jaqueta,Vestuário,150.94,1,Cartão de Débito,Salvador,Rafael
+2024-10-16,Meia,Acessórios,331.25,1,Boleto,Porto Alegre,Patrícia
+2024-12-19,Meia,Acessórios,366.55,3,Cartão de Débito,Porto Alegre,Carlos
+2024-10-06,Blusa,Vestuário,435.64,5,Pix,São Paulo,Ana
+2024-11-18,Tênis Esportivo,Calçados,54.19,5,Pix,Brasília,Rafael
+2025-01-05,Boné,Acessórios,388.89,5,Dinheiro,Salvador,Rafael
+2024-06-19,Meia,Acessórios,251.74,3,Pix,Brasília,Patrícia
+2025-01-13,Vestido,Vestuário,239.7,1,Pix,Salvador,Lucas
+2025-03-27,Boné,Acessórios,107.4,1,Dinheiro,Salvador,Carlos
+2024-11-22,Tênis Esportivo,Calçados,33.13,3,Pix,Belo Horizonte,Fernanda
+2024-08-10,Blusa,Vestuário,148.55,2,Pix,Belo Horizonte,Carlos
+2024-09-29,Vestido,Vestuário,99.69,2,Dinheiro,Curitiba,Rafael
+2025-05-04,Saia,Vestuário,453.8,5,Cartão de Débito,São Paulo,Lucas
+2024-07-06,Tênis,Calçados,430.96,1,Cartão de Débito,Belo Horizonte,Patrícia
+2024-07-02,Saia,Vestuário,38.48,5,Dinheiro,Rio de Janeiro,Lucas
+2025-05-13,Blusa,Vestuário,421.29,4,Boleto,Curitiba,Carlos
+2025-04-23,Blusa,Vestuário,64.47,2,Dinheiro,Brasília,Ana
+2025-02-25,Camiseta,Vestuário,345.12,4,Boleto,Porto Alegre,Carlos
+2024-11-03,Jaqueta,Vestuário,318.9,4,Dinheiro,Belo Horizonte,Rafael
+2025-06-13,Calça Jeans,Vestuário,64.62,5,Pix,Brasília,Lucas
+2025-06-12,Tênis Esportivo,Calçados,171.43,1,Cartão de Crédito,Salvador,Ana
+2025-02-06,Boné,Acessórios,20.11,3,Cartão de Crédito,Porto Alegre,Ana
+2025-05-03,Blusa,Vestuário,462.89,3,Boleto,São Paulo,Patrícia
+2024-11-26,Meia,Acessórios,352.56,2,Cartão de Crédito,Salvador,Ana
+2024-09-25,Vestido,Vestuário,431.26,1,Boleto,Curitiba,Fernanda
+2024-11-23,Camiseta,Vestuário,435.65,2,Cartão de Débito,São Paulo,Ana
+2024-11-17,Meia,Acessórios,47.28,2,Boleto,Porto Alegre,Patrícia
+2025-05-14,Tênis Esportivo,Calçados,187.57,5,Cartão de Crédito,Brasília,Carlos
+2025-03-30,Meia,Acessórios,348.87,5,Boleto,Brasília,Ana
+2024-10-14,Camiseta,Vestuário,135.52,3,Cartão de Crédito,Belo Horizonte,Carlos
+2024-07-01,Meia,Acessórios,180.99,1,Cartão de Crédito,Curitiba,Ana
+2025-03-12,Jaqueta,Vestuário,429.11,3,Boleto,Salvador,Lucas
+2025-03-15,Boné,Acessórios,54.37,2,Cartão de Débito,São Paulo,Lucas
+2024-07-22,Camiseta,Vestuário,347.34,4,Pix,Salvador,Fernanda
+2024-09-30,Blusa,Vestuário,147.82,1,Boleto,São Paulo,Carlos
+2024-11-13,Calça Jeans,Vestuário,213.68,4,Pix,Rio de Janeiro,Fernanda
+2025-03-23,Calça Jeans,Vestuário,371.73,2,Dinheiro,Rio de Janeiro,Carlos
+2024-09-15,Boné,Acessórios,188.71,5,Cartão de Débito,Porto Alegre,Lucas
+2025-05-31,Blusa,Vestuário,390.27,3,Boleto,Salvador,Carlos
+2024-10-11,Camiseta,Vestuário,209.53,4,Cartão de Débito,Rio de Janeiro,Lucas
+2024-08-07,Meia,Acessórios,129.03,5,Dinheiro,Porto Alegre,Carlos
+2024-08-03,Tênis,Calçados,391.48,3,Cartão de Crédito,Rio de Janeiro,Ana
+2025-03-25,Jaqueta,Vestuário,359.17,2,Boleto,Brasília,Patrícia
+2025-02-13,Vestido,Vestuário,292.68,4,Pix,Belo Horizonte,Rafael
+2025-04-23,Blusa,Vestuário,71.78,3,Cartão de Débito,Belo Horizonte,Carlos
+2025-03-30,Vestido,Vestuário,315.01,2,Cartão de Débito,São Paulo,Rafael
+2025-03-07,Calça Jeans,Vestuário,23.46,5,Boleto,Brasília,Ana
+2025-01-29,Jaqueta,Vestuário,194.58,4,Cartão de Crédito,Porto Alegre,Ana
+2024-07-08,Meia,Acessórios,499.57,5,Cartão de Débito,Belo Horizonte,Fernanda
+2024-08-22,Vestido,Vestuário,423.1,1,Boleto,Brasília,Lucas
+2024-08-23,Meia,Acessórios,268.59,5,Boleto,Porto Alegre,Fernanda
+2025-04-29,Camiseta,Vestuário,267.4,2,Boleto,Salvador,Fernanda
+2025-04-14,Calça Jeans,Vestuário,458.26,1,Dinheiro,Brasília,Patrícia
+2024-10-04,Tênis Esportivo,Calçados,241.75,5,Cartão de Crédito,Porto Alegre,Patrícia
+2025-03-27,Blusa,Vestuário,90.2,1,Cartão de Débito,Brasília,Patrícia
+2024-08-22,Blusa,Vestuário,170.59,4,Cartão de Débito,Porto Alegre,Rafael
+2024-09-22,Jaqueta,Vestuário,483.68,2,Cartão de Débito,Curitiba,Ana
+2024-12-25,Vestido,Vestuário,78.57,4,Dinheiro,São Paulo,Rafael
+2025-06-04,Tênis Esportivo,Calçados,210.7,4,Cartão de Crédito,Salvador,Ana
+2025-05-21,Tênis Esportivo,Calçados,427.54,4,Pix,Salvador,Ana
+2025-01-03,Jaqueta,Vestuário,57.96,5,Cartão de Débito,São Paulo,Lucas
+2025-05-31,Boné,Acessórios,366.57,5,Cartão de Crédito,Rio de Janeiro,Ana
+2025-06-08,Blusa,Vestuário,199.39,5,Cartão de Crédito,Porto Alegre,Lucas
+2024-08-03,Calça Jeans,Vestuário,146.4,3,Dinheiro,Brasília,Lucas
+2025-02-07,Tênis,Calçados,23.53,4,Boleto,São Paulo,Carlos
+2025-04-18,Jaqueta,Vestuário,159.72,4,Cartão de Débito,Rio de Janeiro,Patrícia
+2025-04-03,Calça Jeans,Vestuário,141.85,4,Dinheiro,Curitiba,Rafael
+2024-07-05,Tênis,Calçados,244.68,1,Cartão de Débito,Brasília,Rafael
+2025-04-17,Saia,Vestuário,52.58,3,Pix,São Paulo,Patrícia
+2025-03-11,Saia,Vestuário,138.23,5,Dinheiro,Curitiba,Lucas
+2025-03-05,Tênis,Calçados,460.23,3,Cartão de Débito,Brasília,Carlos
+2024-07-12,Jaqueta,Vestuário,125.3,4,Boleto,Salvador,Ana
+2025-05-11,Vestido,Vestuário,231.14,2,Dinheiro,Brasília,Rafael
+2025-04-14,Tênis Esportivo,Calçados,67.0,2,Pix,São Paulo,Patrícia
+2025-01-04,Tênis,Calçados,202.13,2,Cartão de Débito,Brasília,Rafael
+2024-09-07,Tênis,Calçados,492.21,5,Cartão de Crédito,Brasília,Carlos
+2025-03-09,Tênis,Calçados,486.82,1,Pix,Porto Alegre,Lucas
+2024-10-13,Tênis,Calçados,135.76,2,Cartão de Débito,São Paulo,Rafael
+2025-05-02,Vestido,Vestuário,467.45,5,Pix,Rio de Janeiro,Rafael
+2025-05-21,Boné,Acessórios,409.0,1,Pix,Curitiba,Fernanda
+2024-11-11,Vestido,Vestuário,63.57,3,Pix,Curitiba,Lucas
+2025-04-14,Tênis,Calçados,95.29,4,Boleto,Curitiba,Carlos
+2024-10-25,Vestido,Vestuário,413.21,4,Dinheiro,Rio de Janeiro,Carlos
+2025-05-16,Meia,Acessórios,397.77,2,Dinheiro,Belo Horizonte,Patrícia
+2025-05-16,Jaqueta,Vestuário,219.97,3,Cartão de Débito,Porto Alegre,Lucas
+2024-12-06,Meia,Acessórios,206.93,3,Cartão de Crédito,Salvador,Patrícia
+2024-10-05,Saia,Vestuário,112.27,4,Dinheiro,Brasília,Fernanda
+2024-06-29,Boné,Acessórios,182.34,5,Cartão de Crédito,Rio de Janeiro,Carlos
+2025-01-30,Meia,Acessórios,244.14,5,Cartão de Crédito,Rio de Janeiro,Fernanda
+2025-06-05,Tênis Esportivo,Calçados,459.95,3,Pix,Brasília,Fernanda
+2024-12-14,Tênis,Calçados,389.09,2,Dinheiro,São Paulo,Fernanda
+2024-08-22,Blusa,Vestuário,123.82,5,Boleto,Belo Horizonte,Patrícia
+2025-01-26,Saia,Vestuário,336.86,1,Pix,Belo Horizonte,Ana
+2025-01-24,Meia,Acessórios,143.57,4,Boleto,São Paulo,Carlos
+2024-10-13,Tênis,Calçados,346.72,4,Boleto,Brasília,Rafael
+2025-02-11,Calça Jeans,Vestuário,404.78,2,Cartão de Débito,Porto Alegre,Fernanda
+2025-02-02,Tênis Esportivo,Calçados,416.26,1,Dinheiro,Belo Horizonte,Carlos
+2025-05-11,Tênis Esportivo,Calçados,256.72,4,Cartão de Débito,Porto Alegre,Lucas
+2024-11-03,Tênis,Calçados,159.93,5,Dinheiro,Porto Alegre,Rafael
+2024-06-15,Vestido,Vestuário,231.4,4,Cartão de Crédito,Curitiba,Rafael
+2024-12-17,Saia,Vestuário,86.29,1,Dinheiro,Brasília,Ana
+2025-03-03,Tênis,Calçados,228.33,1,Dinheiro,Porto Alegre,Rafael
+2025-02-04,Saia,Vestuário,263.04,2,Cartão de Débito,Brasília,Ana
+2024-08-17,Tênis,Calçados,460.96,3,Cartão de Crédito,Salvador,Rafael
+2024-11-27,Vestido,Vestuário,201.54,5,Cartão de Débito,Porto Alegre,Patrícia
+2024-07-26,Blusa,Vestuário,153.67,5,Pix,Porto Alegre,Patrícia
+2024-11-28,Blusa,Vestuário,424.8,3,Boleto,Belo Horizonte,Lucas
+2024-07-24,Boné,Acessórios,486.34,3,Dinheiro,Rio de Janeiro,Patrícia
